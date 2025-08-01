@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sira</h1>
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
-- 🌱 I’m currently learning Mobile Developer flutter and Backend Golang
+- 🌱 I’m currently learning Mobile Developer and Backend
 
 - 📫 How to reach me **sirakytk@gmail.com**
 
